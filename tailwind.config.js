@@ -14,6 +14,9 @@ module.exports = {
       },
       screens: {
         '2xl': '1320px'
+      },
+      fontFamily: {
+        miring : 'Playwrite IT Moderna, cursive'
       }
     },
   },
